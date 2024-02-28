@@ -7,8 +7,8 @@ import cv2
 from detectors import mask_detector
 
 AIO_FEED_IDS = ['button1', 'button2']
-AIO_USERNAME = 'khoadtran'
-AIO_KEY = 'aio_Xpay75BJoHjjw9LeIfyfe187KdbX'
+AIO_USERNAME = ''
+AIO_KEY = ''
 
 def connected(client):
   print("Connected...")
